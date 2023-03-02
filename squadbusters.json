@@ -234,19 +234,19 @@
             "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/1.png",
             "link" : "https://poki.com/en/g/merge-arena?",
             "cat" : "Overall",
-            "orientation" : "0"
+            "orientation" : "1"
         },{
             "name" : "MOD 2",
             "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/2.png",
             "link" : "https://poki.com/en/g/castle-defender-saga#",
             "cat" : "Strategies",
-            "orientation" : "1"
+            "orientation" : "0"
         },{
             "name" : "MOD 0",
             "ico" : "https://raw.githubusercontent.com/Maria01g/squadbusterslite/main/Nouveau%20dossier/scra/3.png",
             "link" : "https://poki.com/en/g/like-a-king#",
             "cat" : "Arcade",
-            "orientation" : "1"
+            "orientation" : "0"
         }
 
     ],
